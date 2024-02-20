@@ -20,8 +20,8 @@ export var GAMESLINK = {
 export const VERSION = 9
 export const ITERATION = 0
 
-export const NAME = 'car axle'
-export const CREATOR = 'penguinify'
+export const NAME = 'kaon-client'
+export const CREATOR = 'kaon-client'
 
 export var ENV = 'production'
 if (document.location.hostname.includes('localhost')) {
